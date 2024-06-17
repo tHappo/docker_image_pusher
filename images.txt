@@ -1,1 +1,2 @@
 hzw77/colight:v0.1
+colight:v0.1
