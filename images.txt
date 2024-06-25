@@ -1,2 +1,3 @@
 hzw77/colight:v0.1
 cityflowproject/cityflow
+ fairlight1337/stable-diffusion-server
