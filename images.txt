@@ -1,4 +1,4 @@
 hzw77/colight:v0.1
 cityflowproject/cityflow
 fairlight1337/stable-diffusion-server
-zyr17/unlight
+zyr17/unilight
