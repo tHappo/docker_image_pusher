@@ -3,3 +3,4 @@ cityflowproject/cityflow
 fairlight1337/stable-diffusion-server
 zyr17/unilight
 qiaosiyao/sociallight
+jonathonf/manjaro-build
