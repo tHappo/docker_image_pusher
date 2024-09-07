@@ -5,3 +5,4 @@ zyr17/unilight
 qiaosiyao/sociallight
 jonathonf/manjaro-build
 ubuntu:18.04
+registry
