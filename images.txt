@@ -4,3 +4,4 @@ fairlight1337/stable-diffusion-server
 zyr17/unilight
 qiaosiyao/sociallight
 jonathonf/manjaro-build
+ubuntu:18.04
