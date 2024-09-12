@@ -8,6 +8,5 @@ ubuntu:18.04
 registry
 danielda1/ugat
 synthzxs/metalight
-xsonline/metalight
 xsonline/modellight
 fengfeng1221/citybrain
