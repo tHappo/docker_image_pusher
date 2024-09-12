@@ -6,3 +6,4 @@ qiaosiyao/sociallight
 jonathonf/manjaro-build
 ubuntu:18.04
 registry
+danielda1/ugat
