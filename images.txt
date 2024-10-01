@@ -6,3 +6,4 @@ qiaosiyao/sociallight
 jonathonf/manjaro-build
 ubuntu:18.04
 synthzxs/metalight
+xsonline/modellight
