@@ -5,8 +5,4 @@ zyr17/unilight
 qiaosiyao/sociallight
 jonathonf/manjaro-build
 ubuntu:18.04
-danielda1/ugat
-xsonline/modellight
-synthzxs/metalight
-xsonline/modellight
-fengfeng1221/citybrain
+
