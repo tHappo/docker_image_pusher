@@ -7,3 +7,7 @@ jonathonf/manjaro-build
 ubuntu:18.04
 synthzxs/metalight
 danielda1/ugat
+
+#fengfeng1221/citybrain
+#xsonline/modellight
+ 
